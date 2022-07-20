@@ -1,0 +1,112 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Smart_Health_Advisor_System
+build_property.RootNamespace = Smart_Health_Advisor_System
+build_property.ProjectDir = D:\Asp .net Projects\Smart Health Advisor System\Smart Health Advisor System\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Asp .net Projects\Smart Health Advisor System\Smart Health Advisor System
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Blog2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/BlogDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/BlogRight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nUmlnaHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Gallary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxsYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Gallary2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxsYXJ5Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Gallary3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxsYXJ5My5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Gallary4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxsYXJ5NC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Index3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Service.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Team2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Team3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Home/Team4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp .net Projects/Smart Health Advisor System/Smart Health Advisor System/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v0ynkxvx0g

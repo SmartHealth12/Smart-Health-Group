@@ -1,0 +1,181 @@
+/* --Additional Media Query-- */
+@media (min-width: 1200px){
+  .container{
+    max-width: 1170px;
+  }
+}
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.slider-content h2 {
+font-size: 55px;}
+    
+.team-active:hover .owl-controls .owl-nav div.owl-next, .health-active:hover .owl-controls .owl-nav div.owl-next, .blog-active:hover .owl-controls .owl-nav div.owl-next {
+  right: -10px;
+}    
+.team-active:hover .owl-controls .owl-nav div, .health-active:hover .owl-controls .owl-nav div, .blog-active:hover .owl-controls .owl-nav div {
+  left: -10px;
+}    
+ .team-active .owl-controls .owl-nav div.owl-next, .health-active .owl-controls .owl-nav div.owl-next, .blog-active .owl-controls .owl-nav div.owl-next {
+  right: -20px;
+}   
+.team-active .owl-controls .owl-nav div, .health-active .owl-controls .owl-nav div, .blog-active .owl-controls .owl-nav div {
+  left: -20px;
+}
+.service-box h3 {
+  font-size: 1.5rem;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.social-icon a{margin-left:10px;}
+.team-active:hover .owl-controls .owl-nav div.owl-next, .health-active:hover .owl-controls .owl-nav div.owl-next, .blog-active:hover .owl-controls .owl-nav div.owl-next {
+  right: -0px;
+}    
+.team-active:hover .owl-controls .owl-nav div, .health-active:hover .owl-controls .owl-nav div, .blog-active:hover .owl-controls .owl-nav div {
+  left: -0px;
+}    
+ .team-active .owl-controls .owl-nav div.owl-next, .health-active .owl-controls .owl-nav div.owl-next, .blog-active .owl-controls .owl-nav div.owl-next {
+  right: -0px;
+}   
+.team-active .owl-controls .owl-nav div, .health-active .owl-controls .owl-nav div, .blog-active .owl-controls .owl-nav div {
+  left: -0px;
+}
+.main-menu ul li a { padding:40px 10px;}
+.service-box {
+  padding: 20px 10px;
+}
+.single-service{
+  padding:30px;
+  }
+.slider-content h2 {
+  font-size: 40px;
+  margin-bottom:10px;}
+.btn{margin-right:15px;}
+.subscribe-text h3 {font-size:20px}
+.tag-menu{margin-top:30px}
+.tag-menu li a {
+  padding: 5px 14px;
+}    
+.contact-text p {
+  padding: 47px 10px;
+}    
+.service-box h3 {
+  font-size: 1.3rem;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.search-form button{}
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.container {width:300px}
+.mobile-menu-area {
+  width: 100%;
+}
+ .social-icon {text-align:center !important;}
+ .email-address{display:none;}
+ .logo {
+  text-align: center;
+  margin: 20px 0;
+}
+.single-slider{padding:100px 0;}
+.owl-dot{display:none}
+.slider-content p{display:none}
+.slider-content h3{font-size:30px}
+.slider-content h2 {
+  font-size: 23px;
+}
+.btn {
+  margin-bottom: 0;
+  margin-right: 5px;
+  padding: 8px 10px 6px;
+}
+
+.subscribe-form button {
+  bottom:-40px;
+  left:0;
+}
+    .res-xs{
+        margin-bottom: 40px;
+    }    
+    
+.team-active:hover .owl-controls .owl-nav div.owl-next, .health-active:hover .owl-controls .owl-nav div.owl-next, .blog-active:hover .owl-controls .owl-nav div.owl-next {
+  right: -0px;
+}    
+.team-active:hover .owl-controls .owl-nav div, .health-active:hover .owl-controls .owl-nav div, .blog-active:hover .owl-controls .owl-nav div {
+  left: -0px;
+}    
+ .team-active .owl-controls .owl-nav div.owl-next, .health-active .owl-controls .owl-nav div.owl-next, .blog-active .owl-controls .owl-nav div.owl-next {
+  right: -0px;
+}   
+.team-active .owl-controls .owl-nav div, .health-active .owl-controls .owl-nav div, .blog-active .owl-controls .owl-nav div {
+  left: -0px;
+}    
+.subscribe-text {
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+ .subscribe-form ::placeholder {
+  font-size: 12px;
+}   
+.banner-content {
+  padding: 20px 20px 50px;
+}    
+.single-service {
+  padding: 30px 15px 13px;
+}
+.service-area .custom-col .single-service-box {
+  border: 0;
+}
+.order.btn {
+  margin: 20px 0;
+}    
+.health-content h2 {
+  font-size: 20px;
+}    
+.health-content-meta span {
+  margin-bottom: 10px;
+  display: inline-block;
+}    
+.widget-title {
+  margin-bottom: 15px;
+}
+    
+    
+    
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
+ 
